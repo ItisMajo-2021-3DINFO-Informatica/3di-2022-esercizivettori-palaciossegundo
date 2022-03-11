@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\bin\Debug\net5.0\Palaciosvettori3.exe
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\bin\Debug\net5.0\Palaciosvettori3.deps.json
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\bin\Debug\net5.0\Palaciosvettori3.runtimeconfig.json
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\bin\Debug\net5.0\Palaciosvettori3.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\bin\Debug\net5.0\Palaciosvettori3.dll
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\bin\Debug\net5.0\ref\Palaciosvettori3.dll
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\bin\Debug\net5.0\Palaciosvettori3.pdb
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\obj\Debug\net5.0\Palaciosvettori3.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\obj\Debug\net5.0\Palaciosvettori3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\obj\Debug\net5.0\Palaciosvettori3.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\obj\Debug\net5.0\Palaciosvettori3.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\obj\Debug\net5.0\Palaciosvettori3.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\obj\Debug\net5.0\Palaciosvettori3.dll
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\obj\Debug\net5.0\ref\Palaciosvettori3.dll
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\obj\Debug\net5.0\Palaciosvettori3.pdb
+C:\Users\Utente\Desktop\Palaciosvettori3\Palaciosvettori3\obj\Debug\net5.0\Palaciosvettori3.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-palaciossegundo\\PalaciosVettori1\\PalaciosVettori1\\PalaciosVettori1.csproj": {}
+    "C:\\Users\\Utente\\Desktop\\Palaciosvettori3\\Palaciosvettori3\\Palaciosvettori3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-palaciossegundo\\PalaciosVettori1\\PalaciosVettori1\\PalaciosVettori1.csproj": {
+    "C:\\Users\\Utente\\Desktop\\Palaciosvettori3\\Palaciosvettori3\\Palaciosvettori3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-palaciossegundo\\PalaciosVettori1\\PalaciosVettori1\\PalaciosVettori1.csproj",
-        "projectName": "PalaciosVettori1",
-        "projectPath": "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-palaciossegundo\\PalaciosVettori1\\PalaciosVettori1\\PalaciosVettori1.csproj",
+        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Palaciosvettori3\\Palaciosvettori3\\Palaciosvettori3.csproj",
+        "projectName": "Palaciosvettori3",
+        "projectPath": "C:\\Users\\Utente\\Desktop\\Palaciosvettori3\\Palaciosvettori3\\Palaciosvettori3.csproj",
         "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente\\Desktop\\3di-2022-esercizivettori-palaciossegundo\\PalaciosVettori1\\PalaciosVettori1\\obj\\",
+        "outputPath": "C:\\Users\\Utente\\Desktop\\Palaciosvettori3\\Palaciosvettori3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
