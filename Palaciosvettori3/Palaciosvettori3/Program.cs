@@ -10,25 +10,15 @@ namespace Palaciosvettori3
             int[] numeri = new int[dimensione];
             int somma = 0;
             Random generatore = new Random();
-            int i = 0;
             
-            for ( i=0;i<dimensione;i++)
+            for ( int i=0;i<dimensione;i++)
             {
-                numeri[i] = generatore.Next(1, 51);
-                int media = (somma + numeri[i])/2;
-
-            }
-            for (i = 0; i < 10; i++)
-            {
+                numeri[i] = generatore.Next(0, 51); 
                 Console.WriteLine($"vett[{i}]={numeri[i]}");
+                 somma = somma + numeri[i];
             }
-            //ciclo di visualizzazione
-            for (i = 0; i < 10; i++)
-            {
-                Console.Write(numeri[i] + "+");
-
-            }
-            Console.Write($"La media è =" + {media});
+            int media = somma / 30;
+            Console.Write($"La media è = {media}");
         }
     }
 }
