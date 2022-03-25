@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "esercizio4_Palacios/1.0.0": {
+        "runtime": {
+          "esercizio4_Palacios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "esercizio4_Palacios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

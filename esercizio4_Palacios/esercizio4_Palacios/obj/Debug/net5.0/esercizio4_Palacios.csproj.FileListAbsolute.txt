@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\obj\Debug\net5.0\esercizio4_Palacios.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\obj\Debug\net5.0\esercizio4_Palacios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\obj\Debug\net5.0\esercizio4_Palacios.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\obj\Debug\net5.0\esercizio4_Palacios.AssemblyInfo.cs
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\obj\Debug\net5.0\esercizio4_Palacios.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\bin\Debug\net5.0\esercizio4_Palacios.exe
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\bin\Debug\net5.0\esercizio4_Palacios.deps.json
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\bin\Debug\net5.0\esercizio4_Palacios.runtimeconfig.json
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\bin\Debug\net5.0\esercizio4_Palacios.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\bin\Debug\net5.0\esercizio4_Palacios.dll
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\bin\Debug\net5.0\ref\esercizio4_Palacios.dll
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\bin\Debug\net5.0\esercizio4_Palacios.pdb
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\obj\Debug\net5.0\esercizio4_Palacios.dll
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\obj\Debug\net5.0\ref\esercizio4_Palacios.dll
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\obj\Debug\net5.0\esercizio4_Palacios.pdb
+C:\Users\Utente\Desktop\esercizio4_Palacios\esercizio4_Palacios\obj\Debug\net5.0\esercizio4_Palacios.genruntimeconfig.cache
